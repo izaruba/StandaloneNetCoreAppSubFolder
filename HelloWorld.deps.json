@@ -1,0 +1,363 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0/win10-x64",
+    "signature": "b348c731e02a59ba78cd813014097d82edab6717"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {},
+    ".NETCoreApp,Version=v2.0/win10-x64": {
+      "HelloWorld/1.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "runtime": {
+          "HelloWorld.dll": {}
+        }
+      },
+      "Microsoft.NETCore.App/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
+          "Microsoft.NETCore.Platforms": "2.0.0",
+          "NETStandard.Library": "2.0.0",
+          "runtime.win-x64.Microsoft.NETCore.App": "2.0.0"
+        }
+      },
+      "Microsoft.NETCore.DotNetAppHost/2.0.0": {
+        "dependencies": {
+          "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": "2.0.0"
+        }
+      },
+      "Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetHostResolver": "2.0.0",
+          "runtime.win-x64.Microsoft.NETCore.DotNetHostPolicy": "2.0.0"
+        }
+      },
+      "Microsoft.NETCore.DotNetHostResolver/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetAppHost": "2.0.0",
+          "runtime.win-x64.Microsoft.NETCore.DotNetHostResolver": "2.0.0"
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "NETStandard.Library/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        }
+      },
+      "runtime.win-x64.Microsoft.NETCore.App/2.0.0": {
+        "runtime": {
+          "Microsoft.CSharp.dll": {},
+          "Microsoft.VisualBasic.dll": {},
+          "Microsoft.Win32.Primitives.dll": {},
+          "Microsoft.Win32.Registry.dll": {},
+          "SOS.NETCore.dll": {},
+          "System.AppContext.dll": {},
+          "System.Buffers.dll": {},
+          "System.Collections.Concurrent.dll": {},
+          "System.Collections.Immutable.dll": {},
+          "System.Collections.NonGeneric.dll": {},
+          "System.Collections.Specialized.dll": {},
+          "System.Collections.dll": {},
+          "System.ComponentModel.Annotations.dll": {},
+          "System.ComponentModel.Composition.dll": {},
+          "System.ComponentModel.DataAnnotations.dll": {},
+          "System.ComponentModel.EventBasedAsync.dll": {},
+          "System.ComponentModel.Primitives.dll": {},
+          "System.ComponentModel.TypeConverter.dll": {},
+          "System.ComponentModel.dll": {},
+          "System.Configuration.dll": {},
+          "System.Console.dll": {},
+          "System.Core.dll": {},
+          "System.Data.Common.dll": {},
+          "System.Data.dll": {},
+          "System.Diagnostics.Contracts.dll": {},
+          "System.Diagnostics.Debug.dll": {},
+          "System.Diagnostics.DiagnosticSource.dll": {},
+          "System.Diagnostics.FileVersionInfo.dll": {},
+          "System.Diagnostics.Process.dll": {},
+          "System.Diagnostics.StackTrace.dll": {},
+          "System.Diagnostics.TextWriterTraceListener.dll": {},
+          "System.Diagnostics.Tools.dll": {},
+          "System.Diagnostics.TraceSource.dll": {},
+          "System.Diagnostics.Tracing.dll": {},
+          "System.Drawing.Primitives.dll": {},
+          "System.Drawing.dll": {},
+          "System.Dynamic.Runtime.dll": {},
+          "System.Globalization.Calendars.dll": {},
+          "System.Globalization.Extensions.dll": {},
+          "System.Globalization.dll": {},
+          "System.IO.Compression.FileSystem.dll": {},
+          "System.IO.Compression.ZipFile.dll": {},
+          "System.IO.Compression.dll": {},
+          "System.IO.FileSystem.AccessControl.dll": {},
+          "System.IO.FileSystem.DriveInfo.dll": {},
+          "System.IO.FileSystem.Primitives.dll": {},
+          "System.IO.FileSystem.Watcher.dll": {},
+          "System.IO.FileSystem.dll": {},
+          "System.IO.IsolatedStorage.dll": {},
+          "System.IO.MemoryMappedFiles.dll": {},
+          "System.IO.Pipes.dll": {},
+          "System.IO.UnmanagedMemoryStream.dll": {},
+          "System.IO.dll": {},
+          "System.Linq.Expressions.dll": {},
+          "System.Linq.Parallel.dll": {},
+          "System.Linq.Queryable.dll": {},
+          "System.Linq.dll": {},
+          "System.Net.Http.dll": {},
+          "System.Net.HttpListener.dll": {},
+          "System.Net.Mail.dll": {},
+          "System.Net.NameResolution.dll": {},
+          "System.Net.NetworkInformation.dll": {},
+          "System.Net.Ping.dll": {},
+          "System.Net.Primitives.dll": {},
+          "System.Net.Requests.dll": {},
+          "System.Net.Security.dll": {},
+          "System.Net.ServicePoint.dll": {},
+          "System.Net.Sockets.dll": {},
+          "System.Net.WebClient.dll": {},
+          "System.Net.WebHeaderCollection.dll": {},
+          "System.Net.WebProxy.dll": {},
+          "System.Net.WebSockets.Client.dll": {},
+          "System.Net.WebSockets.dll": {},
+          "System.Net.dll": {},
+          "System.Numerics.Vectors.dll": {},
+          "System.Numerics.dll": {},
+          "System.ObjectModel.dll": {},
+          "System.Private.DataContractSerialization.dll": {},
+          "System.Private.Uri.dll": {},
+          "System.Private.Xml.Linq.dll": {},
+          "System.Private.Xml.dll": {},
+          "System.Reflection.DispatchProxy.dll": {},
+          "System.Reflection.Emit.ILGeneration.dll": {},
+          "System.Reflection.Emit.Lightweight.dll": {},
+          "System.Reflection.Emit.dll": {},
+          "System.Reflection.Extensions.dll": {},
+          "System.Reflection.Metadata.dll": {},
+          "System.Reflection.Primitives.dll": {},
+          "System.Reflection.TypeExtensions.dll": {},
+          "System.Reflection.dll": {},
+          "System.Resources.Reader.dll": {},
+          "System.Resources.ResourceManager.dll": {},
+          "System.Resources.Writer.dll": {},
+          "System.Runtime.CompilerServices.VisualC.dll": {},
+          "System.Runtime.Extensions.dll": {},
+          "System.Runtime.Handles.dll": {},
+          "System.Runtime.InteropServices.RuntimeInformation.dll": {},
+          "System.Runtime.InteropServices.WindowsRuntime.dll": {},
+          "System.Runtime.InteropServices.dll": {},
+          "System.Runtime.Loader.dll": {},
+          "System.Runtime.Numerics.dll": {},
+          "System.Runtime.Serialization.Formatters.dll": {},
+          "System.Runtime.Serialization.Json.dll": {},
+          "System.Runtime.Serialization.Primitives.dll": {},
+          "System.Runtime.Serialization.Xml.dll": {},
+          "System.Runtime.Serialization.dll": {},
+          "System.Runtime.dll": {},
+          "System.Security.AccessControl.dll": {},
+          "System.Security.Claims.dll": {},
+          "System.Security.Cryptography.Algorithms.dll": {},
+          "System.Security.Cryptography.Cng.dll": {},
+          "System.Security.Cryptography.Csp.dll": {},
+          "System.Security.Cryptography.Encoding.dll": {},
+          "System.Security.Cryptography.OpenSsl.dll": {},
+          "System.Security.Cryptography.Primitives.dll": {},
+          "System.Security.Cryptography.X509Certificates.dll": {},
+          "System.Security.Principal.Windows.dll": {},
+          "System.Security.Principal.dll": {},
+          "System.Security.SecureString.dll": {},
+          "System.Security.dll": {},
+          "System.ServiceModel.Web.dll": {},
+          "System.ServiceProcess.dll": {},
+          "System.Text.Encoding.Extensions.dll": {},
+          "System.Text.Encoding.dll": {},
+          "System.Text.RegularExpressions.dll": {},
+          "System.Threading.Overlapped.dll": {},
+          "System.Threading.Tasks.Dataflow.dll": {},
+          "System.Threading.Tasks.Extensions.dll": {},
+          "System.Threading.Tasks.Parallel.dll": {},
+          "System.Threading.Tasks.dll": {},
+          "System.Threading.Thread.dll": {},
+          "System.Threading.ThreadPool.dll": {},
+          "System.Threading.Timer.dll": {},
+          "System.Threading.dll": {},
+          "System.Transactions.Local.dll": {},
+          "System.Transactions.dll": {},
+          "System.ValueTuple.dll": {},
+          "System.Web.HttpUtility.dll": {},
+          "System.Web.dll": {},
+          "System.Windows.dll": {},
+          "System.Xml.Linq.dll": {},
+          "System.Xml.ReaderWriter.dll": {},
+          "System.Xml.Serialization.dll": {},
+          "System.Xml.XDocument.dll": {},
+          "System.Xml.XPath.XDocument.dll": {},
+          "System.Xml.XPath.dll": {},
+          "System.Xml.XmlDocument.dll": {},
+          "System.Xml.XmlSerializer.dll": {},
+          "System.Xml.dll": {},
+          "System.dll": {},
+          "WindowsBase.dll": {},
+          "mscorlib.dll": {},
+          "netstandard.dll": {}
+        },
+        "native": {
+          "Microsoft.DiaSymReader.Native.amd64.dll": {},
+          "System.Private.CoreLib.dll": {},
+          "api-ms-win-core-console-l1-1-0.dll": {},
+          "api-ms-win-core-datetime-l1-1-0.dll": {},
+          "api-ms-win-core-debug-l1-1-0.dll": {},
+          "api-ms-win-core-errorhandling-l1-1-0.dll": {},
+          "api-ms-win-core-file-l1-1-0.dll": {},
+          "api-ms-win-core-file-l1-2-0.dll": {},
+          "api-ms-win-core-file-l2-1-0.dll": {},
+          "api-ms-win-core-handle-l1-1-0.dll": {},
+          "api-ms-win-core-heap-l1-1-0.dll": {},
+          "api-ms-win-core-interlocked-l1-1-0.dll": {},
+          "api-ms-win-core-libraryloader-l1-1-0.dll": {},
+          "api-ms-win-core-localization-l1-2-0.dll": {},
+          "api-ms-win-core-memory-l1-1-0.dll": {},
+          "api-ms-win-core-namedpipe-l1-1-0.dll": {},
+          "api-ms-win-core-processenvironment-l1-1-0.dll": {},
+          "api-ms-win-core-processthreads-l1-1-0.dll": {},
+          "api-ms-win-core-processthreads-l1-1-1.dll": {},
+          "api-ms-win-core-profile-l1-1-0.dll": {},
+          "api-ms-win-core-rtlsupport-l1-1-0.dll": {},
+          "api-ms-win-core-string-l1-1-0.dll": {},
+          "api-ms-win-core-synch-l1-1-0.dll": {},
+          "api-ms-win-core-synch-l1-2-0.dll": {},
+          "api-ms-win-core-sysinfo-l1-1-0.dll": {},
+          "api-ms-win-core-timezone-l1-1-0.dll": {},
+          "api-ms-win-core-util-l1-1-0.dll": {},
+          "api-ms-win-crt-conio-l1-1-0.dll": {},
+          "api-ms-win-crt-convert-l1-1-0.dll": {},
+          "api-ms-win-crt-environment-l1-1-0.dll": {},
+          "api-ms-win-crt-filesystem-l1-1-0.dll": {},
+          "api-ms-win-crt-heap-l1-1-0.dll": {},
+          "api-ms-win-crt-locale-l1-1-0.dll": {},
+          "api-ms-win-crt-math-l1-1-0.dll": {},
+          "api-ms-win-crt-multibyte-l1-1-0.dll": {},
+          "api-ms-win-crt-private-l1-1-0.dll": {},
+          "api-ms-win-crt-process-l1-1-0.dll": {},
+          "api-ms-win-crt-runtime-l1-1-0.dll": {},
+          "api-ms-win-crt-stdio-l1-1-0.dll": {},
+          "api-ms-win-crt-string-l1-1-0.dll": {},
+          "api-ms-win-crt-time-l1-1-0.dll": {},
+          "api-ms-win-crt-utility-l1-1-0.dll": {},
+          "clrcompression.dll": {},
+          "clretwrc.dll": {},
+          "/clrjit.dll": {},
+          "/coreclr.dll": {},
+          "dbgshim.dll": {},
+          "mscordaccore.dll": {},
+          "mscordaccore_amd64_amd64_4.6.00001.0.dll": {},
+          "mscordbi.dll": {},
+          "mscorrc.debug.dll": {},
+          "mscorrc.dll": {},
+          "sos.dll": {},
+          "sos_amd64_amd64_4.6.00001.0.dll": {},
+          "ucrtbase.dll": {}
+        }
+      },
+      "runtime.win-x64.Microsoft.NETCore.DotNetAppHost/2.0.0": {
+        "native": {
+          "apphost.exe": {}
+        }
+      },
+      "runtime.win-x64.Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetHostResolver": "2.0.0"
+        },
+        "native": {
+          "runtimes/win-x64/native/hostpolicy.dll": {}
+        }
+      },
+      "runtime.win-x64.Microsoft.NETCore.DotNetHostResolver/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetAppHost": "2.0.0"
+        },
+        "native": {
+          "hostfxr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.App/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/mzXF+UtZef+VpzzN88EpvFq5U6z4rj54ZMq/J968H6pcvyLOmcupmTRpJ3CJm8ILoCGh9WI7qpDdiKtuzswrQ==",
+      "path": "",
+      "hashPath": "microsoft.netcore.app.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetAppHost/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L4GGkcI/Mxl8PKLRpFdGmLb5oI8sGIR05bDTGkzCoamAjdUl1Zhkov2swjEsZvKYT8kkdiz39LtwyGYuCJxm1A==",
+      "path": "",
+      "hashPath": "microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rm7mMn0A93fwyAwVhbyOCcPuu2hZNL0A0dAur9sNG9pEkONPfCEQeF7m2mC8KpqZO0Ol6tpV5J0AF3HTXT3GXA==",
+      "path": "",
+      "hashPath": "microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetHostResolver/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uBbjpeSrwsaTCADZCzRk+3aBzNnMqkC4zftJWBsL+Zk+8u+W+/lMb2thM5Y4hiVrv1YQg9t6dKldXzOKkY+pQw==",
+      "path": "",
+      "hashPath": "microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+    },
+    "runtime.win-x64.Microsoft.NETCore.App/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8jivXDJLuJTxMQuInZaMiD2VbxehFmYAtn2V9mj9juaR5jH54/OBGmGv6SrIUVNqASXB/8dJbce/beIKnOzroQ==",
+      "path": "/",
+      "hashPath": "runtime.win-x64.microsoft.netcore.app.2.0.0.nupkg.sha512"
+    },
+    "runtime.win-x64.Microsoft.NETCore.DotNetAppHost/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GKuVvomClOwspUg3ecEEieg5eOlJ26zA9BNH9tQcCJuz/z9SBdQHIwneCzVV88zEeSQJ+vRopL8nHLqZjGr8Uw==",
+      "path": "",
+      "hashPath": "runtime.win-x64.microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512"
+    },
+    "runtime.win-x64.Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3za9dj6qb2OThjGmy/uFz6aKUlpWVi+vQ2l4+5uBrFaYZNXmCTsp87qk/qxK+dXiVdl3tt1YLphI04a4vE3hMw==",
+      "path": "runtime.win-x64.Microsoft.NETCore.DotNetHostPolicy/2.0.0",
+      "hashPath": "runtime.win-x64.microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512"
+    },
+    "runtime.win-x64.Microsoft.NETCore.DotNetHostResolver/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wDXLnFxnAU8hgo4MdvggGHGDcVTK4aqA/If6r0bxFUUxU4XMDjq0stQWqFRtgjrGoDsqVhxbop6HXrF/V28bVQ==",
+      "path": "",
+      "hashPath": "runtime.win-x64.microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512"
+    }
+  }
+}
